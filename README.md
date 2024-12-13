@@ -1,0 +1,1 @@
+Do hotstreaks exist in sports, using data from premier league matches from 1993-2023. We will investigate if there is signficant evidence for hotstreaks in sports and also create a predicitive model, to predict if a team will or won't win the next match.
