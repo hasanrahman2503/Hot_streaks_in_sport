@@ -1,8 +1,8 @@
 Do hot streaks exist in sports, using data from Premier League matches from 1993-2023?\
 We will investigate if there is significant evidence for hot streaks in sports and also create a predictive model to predict if a team will or won't win the next match
-[You can read the paper by clicking here](Do_hot_streaks_exist_in_sports.pdf).
+[you can read the paper here](Do_hot_streaks_exist_in_sports.pdf).
 
-If you want to read the actual code used in the research or the data used [Just click here](Model_Code).
+If you want to read the actual code used in the research or the data used [click here](Model_Code).
 
 Here is a description of each of the files.
 
