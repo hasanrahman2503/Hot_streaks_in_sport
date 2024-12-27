@@ -13,6 +13,6 @@ Here is a description of each of the files.
 
 [Graph.R](Model_Code/Graph.R) : A graph of the distribution of hotstreaks in the over 24000 matches analysed
 
-[Predictive model part 1.R](Model_Code/Predictive_model_part_1.R) : A generalized linear model this was the simpler version just considering the previous match
+[Predictive model part 1.R](Model_Code/Predictive_model_part_1.R) : A generalized linear model this was the simpler version just considering the impact of the previous match on the probability the team wins the next match
 
 [Predictive model part 2.R](Model_Code/Predictive_model_part_2.R) : The model would now consider the results of past three matches and the two and three factor interactions
